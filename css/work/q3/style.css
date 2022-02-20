@@ -1,5 +1,70 @@
 @charset "UTF-8";
 
+.q3_box {
+  width: 500px;
+  height: 500px;
+  background: #ecf1f2;
+  margin: 0;
+
+.q3_1 {
+  top: 40px;
+  left: 200px;
+  z-index: 1;
+  background-color: #ffefd3;
+}
+
+.q3_2 {
+  top: 120px;
+  left: 280px;
+  z-index: 2;
+  background-color: #7084de;
+}
+
+.q3_3 {
+  top: 280px;
+  left: 360px;
+  z-index: 3;
+  background-color: #d0ecea;
+}
+
+.q3_4 {
+  top: 280px;
+  left: 280px;
+  z-index: 4;
+  background-color: #8b7a5e;
+}
+
+.q3_5 {
+  top: 360px;
+  left: 200px;
+  z-index: 5;
+  background-color: #9fd6d2;
+}
+
+.q3_6 {
+  top: 280px;
+  left: 120px;
+  z-index: 6;
+  background-color: #fffee4;
+}
+
+.q3_7 {
+  top: 280px;
+  left: 40px;
+  z-index: 7;
+  background-color: #deae70;
+}
+
+.q3_8 {
+  top: 120px;
+  left: 120px;
+  z-index: 8;
+  background-color: #de70cf;
+}
+  
+.q3_fixed_box {
+  }
+
 
 /* q3が終わったら
 q4のcssはq4フォルダの中のcssファイルに記述してください */
