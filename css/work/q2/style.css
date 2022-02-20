@@ -11,6 +11,10 @@
     line-height: 26px;
     color: #fff;
     background-color: #2244aa;
+    
+}
+
+.table_q2 th {
     padding: 10px;
     border: 1px solid #dedede;
 }
@@ -20,6 +24,10 @@
     line-height: 22px;
     color: #fff;
     background-color: #2244aa;
+    
+}
+
+.table_q2 td {
     padding: 10px;
     border: 1px solid #dedede;
 }
