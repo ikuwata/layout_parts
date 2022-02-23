@@ -21,10 +21,16 @@
     font-size: 16px;
     border: 10px solid #022336;
     background-color: #eaf4ff;
-  
- .q1_box:first-child {
-  margin: 0;
 }
+  
+
+
+.box_q1:first-child{
+      margin: 0;
+}
+
+
+  
 
 /* q1が終わったら
 q2のcssはq2フォルダの中のcssファイルに記述してください */
