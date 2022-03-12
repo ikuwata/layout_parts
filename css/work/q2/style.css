@@ -7,6 +7,16 @@
 }
 
 .table_q2 th {
+    padding: 10px;
+    border: 1px solid #dedede;
+}
+
+.table_q2 td {
+    padding: 10px;
+    border: 1px solid #dedede;
+}
+
+.table_q2 th {
     font-size: 18px;
     line-height: 26px;
     color: #fff;
@@ -14,24 +24,13 @@
     
 }
 
-.table_q2 th {
-    padding: 10px;
-    border: 1px solid #dedede;
+.table_q2 tbody tr:nth-child(even) {
+    background-color: #ecf1f2;
 }
 
-.table_q2 td {
-    font-size: 16px;
-    line-height: 22px;
-    color: #fff;
-    background-color: #2244aa;
-    
+.table_q2 tbody tr:last-child {
+    border-top: 2px dashed #000
 }
-
-.table_q2 td {
-    padding: 10px;
-    border: 1px solid #dedede;
-}
-
 
 
 /* q2が終わったら
