@@ -96,6 +96,7 @@
   height: 20px;
   display: block;
   background-color: #ffefd3;
+  content: "";
 }
 
 .q3_fixed_box::before {
