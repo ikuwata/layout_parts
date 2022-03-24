@@ -17,14 +17,7 @@
   line-height: 100px;
 }
 
-.q3_8 {
-  top: 120px;
-  left: 120px;
-  z-index: 8;
-  background-color: #de70cf;
-}
-
-.box　q3_8::after {
+.q3_8::after {
   position: absolute;
   top: 0px;
   right: 0px;
@@ -33,6 +26,13 @@
   display: block;
   background-color: #ffefd3;
   content: "";
+}
+
+.q3_8 {
+  top: 120px;
+  left: 120px;
+  z-index: 8;
+  background-color: #de70cf;
 }
 
 .q3_5 {
@@ -50,7 +50,7 @@
 }
 
 .q3_7 {
-  top: 280px;
+  top: 200px;
   left: 40px;
   z-index: 7;
   background-color: #deae70;
@@ -78,7 +78,7 @@
 }
 
 .q3_3 {
-  top: 280px;
+  top: 200px;
   left: 360px;
   z-index: 3;
   background-color: #d0ecea;
