@@ -1,12 +1,16 @@
 @charset "UTF-8";
 
-.q4_text-align {
-  text-align: center;
+.q4_display_inline {
+  display: inline-block;
 }
 
-.q4_text_align:center {
+.q4_text_center {
+  text-align: center;
+}
+.q4_text {
   margin: 0 auto;
 }
+
 
 
 /* q4が終わったら
