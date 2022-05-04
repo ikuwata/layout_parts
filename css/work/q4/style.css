@@ -27,6 +27,25 @@
   align-items: center;
 }
 
+.q4_relative {
+  position: relative;
+}
+
+.q4_fixed {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.q4_flexible {
+  position: absolute;
+  transform: translate(-50%) translate(-50%);
+  top: 50%;
+  left: 50%;
+}
 
 
 /* q4が終わったら
