@@ -11,6 +11,22 @@
   margin: 0 auto;
 }
 
+.q4table{
+  display: table;
+}
+
+.table_cell{
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.q4_flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 
 
 /* q4が終わったら
