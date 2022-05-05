@@ -36,6 +36,9 @@
   padding-left: 0;
 }
 
+.q5_front {
+  font-size: 0;
+}
 
 .inline_block {
   display: inline-block;
