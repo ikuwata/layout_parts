@@ -10,6 +10,10 @@
   float: left;
 }
 
+.q5_float {
+  margin-left: 60px;
+}
+
 .q5_float:first-child {
   margin-left: 0;
 }
