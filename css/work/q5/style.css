@@ -10,9 +10,24 @@
   float: left;
 }
 
+.q5_float:first-child {
+  margin-left: 0;
+}
+
+.q5_whte {
+  width: 400px;
+}
+
 .q5_table_cell {
   display: table-cell;
+  padding-left: 60px;
 }
+
+
+.q5_table:first-child {
+  padding-left: 0;
+}
+
 
 .inline_block {
   display: inline-block;
