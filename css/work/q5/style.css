@@ -27,14 +27,14 @@
   width: 400px;
 }
 
-.table_cell {
-  display: table-cell;
-  padding-left: 60px;
+.table_cell:first-child {
+  padding-left: 0;
 }
 
 
-.table_cell:first-child {
-  padding-left: 0;
+.table_cell {
+  display: table-cell;
+  padding-left: 60px;
 }
 
 .q5_front {
