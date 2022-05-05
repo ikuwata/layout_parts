@@ -20,6 +20,7 @@
 
 .q5_table {
   display: table;
+  width: 100%;
 }
 
 .q5_white {
@@ -46,6 +47,10 @@
 
 .inline_block {
   margin-left: 60px;
+}
+
+.inline_block {
+  margin-left: 0;
 }
 
 .q5_flex {
