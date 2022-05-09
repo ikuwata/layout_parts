@@ -1,5 +1,25 @@
 @charset "UTF-8";
 
+.q6_img_box {
+  width: 300px;
+  height: 200px;
+  margin-left: 50px;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.q6_img_box:first-child {
+  margin-left: 0;
+}
+
+.q6_img {
+  width: 100px;
+  height: 100px;
+  transition: all 5s;
+}
+
+
 
 /* q6が終わったら
 q7のcssはq7フォルダの中のcssファイルに記述してください */
