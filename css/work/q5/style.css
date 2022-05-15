@@ -24,12 +24,12 @@
   width: 100%;
 }
 
-.table_cell {
+.q5_table_cell {
   display: table-cell;
   padding-left: 60px;
 }
 
-.table_cell:first-child {
+.q5_table_cell:first-child {
   padding-left: 0;
 }
 
