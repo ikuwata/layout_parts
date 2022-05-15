@@ -23,9 +23,9 @@
   width: 100%;
 }
 
-.q5_white {
+/* .q5_white {
   width: 400px;
-}
+} */
 
 .table_cell:first-child {
   padding-left: 0;
@@ -58,14 +58,14 @@
   justify-content: space-between;
 }
 
-.q5_white_calc:first-child {
+/* .q5_white_calc:first-child {
   margin-left: 0;
-}
+} */
 
-.q5_white_calc {
+/* .q5_white_calc {
   width: calc((100% - 50px) / 3);
   margin-left: 25px;
-}
+} */
 
 
 
