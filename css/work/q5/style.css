@@ -33,6 +33,23 @@
   padding-left: 0;
 }
 
+.q5_font {
+  font-size: 0;
+}
+
+.inline_block:first-child {
+  margin-left: 0;
+}
+
+.inline_block {
+  margin-left: 60px;
+}
+
+.inline_block {
+  display: inline-block;
+}
+
+
 
 /* q5が終わったら
 q6のcssはq6フォルダの中のcssファイルに記述してください */
