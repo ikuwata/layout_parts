@@ -14,6 +14,10 @@
   margin-left: 60px;
 }
 
+.q5_float:first-child {
+  margin-left: 0;
+}
+
 .q5_table {
   display: table;
   width: 100%;
