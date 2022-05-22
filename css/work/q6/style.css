@@ -51,6 +51,10 @@
     word-break: break-all;
 }
 
+.q6_img_sliduep:hover {
+    transition-duration: 0.5s;
+    width: 20px;
+}
 
 
 
