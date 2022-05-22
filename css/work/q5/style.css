@@ -1,54 +1,60 @@
 @charset "UTF-8";
 
 .clearfix::after {
-  display: block;
-  content: "";
-  clear: both;
+    display: block;
+    content: "";
+    clear: both;
 }
 
 .q5_float {
-  float: left;
+    float: left;
 }
 
 .q5_float {
-  margin-left: 60px;
-  width: 400px;
+    margin-left: 60px;
+    width: 400px;
 }
 
 .q5_float:first-child {
-  margin-left: 0;
+    margin-left: 0;
 }
 
 .q5_table {
-  display: table;
-  width: 100%;
+    display: table;
+    width: 100%;
 }
 
 .q5_table_cell {
-  display: table-cell;
-  padding-left: 60px;
+    display: table-cell;
+    padding-left: 60px;
 }
 
 .q5_table_cell:first-child {
-  padding-left: 0;
+    padding-left: 0;
 }
 
 .q5_font {
-  font-size: 0;
+    font-size: 0;
 }
 
 .q5_inline_block:first-child {
-  margin-left: 0;
+    margin-left: 0;
 }
 
 .q5_inline_block {
-  margin-left: 60px;
-  width: 400px;
+    margin-left: 60px;
+    width: 400px;
 }
 
 .q5_inline_block {
-  display: inline-block;
+    display: inline-block;
 }
+
+.q5_flex {
+    display: flex;
+    justify-content: space-between;
+}
+
 
 
 
