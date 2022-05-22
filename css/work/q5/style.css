@@ -55,6 +55,14 @@
     justify-content: space-between;
 }
 
+.q5_font {
+    font-size: 0;
+}
+
+.inline_block {
+    display: inline-block;
+}
+
 
 
 
