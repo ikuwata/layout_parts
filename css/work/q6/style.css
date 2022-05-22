@@ -19,7 +19,8 @@
 }
 
 .q6_img:hover{
-    transform: scale(1.2,1.2);
+    transform: scale(1.2);
+    transition-duration: 0.5s;
 }
 
 .q6_img {
