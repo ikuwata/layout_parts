@@ -1,9 +1,9 @@
 @charset "UTF-8";
 
 .clearfix::after {
-  content: "";
-  clear: both;
-  display: block;
+    content: "";
+    clear: both;
+    display: block;
 }
 
 .box_q1 {
@@ -16,7 +16,7 @@
 }
 
 .box_q1:first-child{
-  margin: 0;
+    margin: 0;
 }
 
 .text_q1 {
@@ -26,7 +26,8 @@
     border: 10px solid #022336;
     background-color: #eaf4ff;
 }
-  
+
+
 
 
 /* q1が終わったら
