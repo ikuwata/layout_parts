@@ -18,6 +18,10 @@
     overflow: hidden;
 }
 
+.q6_img:hover{
+    transform: scale(1.2,1.2);
+}
+
 .q6_img {
     width: 100%;
     height: 100%;
