@@ -37,16 +37,16 @@
     font-size: 0;
 }
 
-.q5_inline_block:first-child {
+.inline_block:first-child {
     margin-left: 0;
 }
 
-.q5_inline_block {
+.inline_block {
     margin-left: 60px;
     width: 400px;
 }
 
-.q5_inline_block {
+.inline_block {
     display: inline-block;
 }
 
