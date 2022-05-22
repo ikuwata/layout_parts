@@ -18,9 +18,12 @@
     overflow: hidden;
 }
 
+.q6_img_large{
+    transition-duration: 0.5s;
+}
+
 .q6_img_large:hover{
     transform: scale(1.5);
-    transition-duration: 0.5s;
 }
 
 .q6_img {
