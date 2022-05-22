@@ -18,11 +18,11 @@
     overflow: hidden;
 }
 
-.q6_img_large{
+.q6_img_box{
     transition-duration: 0.5s;
 }
 
-.q6_img_large:hover{
+.q6_img_box:hover{
     transform: scale(1.5);
 }
 
