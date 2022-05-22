@@ -54,6 +54,7 @@
 .q6_img_sliduep:hover {
     transition-duration: 0.5s;
     width: 20px;
+    bottom: 20px;
 }
 
 
