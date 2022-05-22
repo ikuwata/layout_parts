@@ -59,9 +59,11 @@
     font-size: 0;
 }
 
-.inline_block {
-    display: inline-block;
+.q5_inline_block {
+    width: calc((100% - 50px) / 3);
+    margin-left: 25px;
 }
+
 
 
 
