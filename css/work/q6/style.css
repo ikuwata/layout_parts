@@ -57,6 +57,21 @@
   word-break: break-all;
 }
 
+.key_visual {
+  overflow: hidden;
+  position: relative;
+}
+
+.key_visual_text {
+  height: 540px;
+  padding: 80px 0;
+  box-sizing: border-box;
+  font-size: 0;
+}
+
+.key_visual_text p {
+  animation: loop 10s linear infinite;
+}
 
 
 
