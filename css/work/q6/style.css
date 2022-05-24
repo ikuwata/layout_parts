@@ -73,6 +73,11 @@
   animation: loop 10s linear infinite;
 }
 
+.key_visua p {
+  height: 100%;
+  font-size: 200px;
+  display: inline-block;
+}
 
 
 /* q6が終わったら
