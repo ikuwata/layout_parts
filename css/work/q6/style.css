@@ -46,15 +46,15 @@
 }
 
 .q6_text p {
-  background-color: #fff;
+  color: #fff;
   opacity: 1;
- position: absolute;
- bottom: 0;
- left: 0;
- width: 100%;
- padding: 20px;
- box-sizing: border-box;
- word-break: break-all;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+  word-break: break-all;
 }
 
 
