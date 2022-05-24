@@ -70,7 +70,10 @@
 }
 
 .key_visual_text p {
-  animation: loop 10s linear infinite;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+  opacity: 1;
+	transform: translateX(0);
 }
 
 .key_visua p {
