@@ -44,6 +44,7 @@
   transition: all .5s;
   background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,8));
   background-color: #fff;
+  opacity: 1;
 }
 
 
