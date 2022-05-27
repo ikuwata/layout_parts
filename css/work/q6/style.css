@@ -29,11 +29,9 @@
   transition: all .5s;
 }
 
-/* .q6_img_text {
-  margin: 0;
-  margin-left: 50px;
-  position: relative;
-} */
+.q6_img_text {
+  opacity: 0;
+}
 
 
 .q6_text {
