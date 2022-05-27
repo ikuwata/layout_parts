@@ -33,6 +33,11 @@
 .q6_img_text {
   margin: 0;
   position: relative;
+  opacity: 0;
+}
+
+.q6_img_text:hover {
+  opacity: 1;
 }
 
 .q6_text {
@@ -72,7 +77,6 @@
 .key_visual_text p {
   animation-duration: 10s;
   animation-iteration-count: infinite;
-  opacity: 1;
 	transform: translateX(0);
 }
 
