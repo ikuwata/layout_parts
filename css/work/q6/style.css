@@ -36,9 +36,6 @@
   opacity: 0;
 }
 
-.q6_img_text:hover {
-  opacity: 1;
-}
 
 .q6_text {
   position: absolute;
@@ -60,6 +57,10 @@
   padding: 20px;
   box-sizing: border-box;
   word-break: break-all;
+}
+
+.q6_text:hover {
+  opacity: 1;
 }
 
 .key_visual {
