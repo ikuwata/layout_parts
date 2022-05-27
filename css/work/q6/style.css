@@ -18,7 +18,6 @@
   overflow: hidden;
 }
 
-
 .q6_img_large:hover {
   transform: scale(1.5);
   transition-duration: 0.5s;
@@ -30,11 +29,11 @@
   transition: all .5s;
 }
 
-.q6_img_text {
+/* .q6_img_text {
   margin: 0;
   margin-left: 50px;
   position: relative;
-}
+} */
 
 
 .q6_text {
