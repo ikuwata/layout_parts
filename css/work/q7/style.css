@@ -10,7 +10,7 @@
   border-radius: 30px;
 }
 
-.q7_balloon:before {
+.q7_balloon:before,.q7_balloon:after {
   position: absolute;
   bottom: 25px;
   height: 0;
