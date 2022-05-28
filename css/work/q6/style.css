@@ -70,11 +70,6 @@
   font-size: 0;
 }
 
-.key_visual_text p {
-  transform: translateX(100%);
-  transform: translateX(0);
-}
-
 .key_visual_text p:first-child {
   animation: loop 10s linear infinite;
 }
