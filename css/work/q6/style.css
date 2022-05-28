@@ -30,7 +30,7 @@
 }
 
 .q6_text {
-  position: absolute;
+  position: relative;
   bottom: -100%;
   left: 0;
   width: 100%;
@@ -40,7 +40,7 @@
 }
 
 .q6_text p {
-  position: relative;
+  position: absolute;
   bottom: 0;
   width: 100%;
   left: 0;
