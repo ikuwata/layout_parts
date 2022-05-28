@@ -70,7 +70,7 @@
   font-size: 0;
 }
 
-.key_visual_text p:first-child {
+.key_visual_text p {
   animation: loop 10s linear infinite;
 }
 
