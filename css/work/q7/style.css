@@ -19,6 +19,11 @@
   border: 20px solid transparent;
 }
 
+.q7_balloon:before {
+  left: -45px;
+  border-right-color: #222;
+}
+
 .q7_balloon:after {
   left: -38px;
   border-right-color: #fff;
