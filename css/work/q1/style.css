@@ -1,30 +1,30 @@
 @charset "UTF-8";
 
 .clearfix::after {
-    content: "";
-    clear: both;
-    display: block;
+  content: "";
+  clear: both;
+  display: block;
 }
 
 .box_q1 {
-    margin-left: 30px;
-    padding: 20px;
-    width: 300px;
-    background-color: #3274ae;
-    box-sizing: border-box;
-    float: left;
+  margin-left: 30px;
+  padding: 20px;
+  width: 300px;
+  background-color: #3274ae;
+  box-sizing: border-box;
+  float: left;
 }
 
 .box_q1:first-child{
-    margin: 0;
+  margin: 0;
 }
 
 .text_q1 {
-    padding: 20px;
-    line-height: 16px;
-    font-size: 16px;
-    border: 10px solid #022336;
-    background-color: #eaf4ff;
+  padding: 20px;
+  line-height: 16px;
+  font-size: 16px;
+  border: 10px solid #022336;
+  background-color: #eaf4ff;
 }
 
 
