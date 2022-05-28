@@ -1,5 +1,11 @@
 @charset "UTF-8";
 
+.q7_inner {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
 .q7_balloon {
   position: relative;
   width: 500px;
