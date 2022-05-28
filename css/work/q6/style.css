@@ -40,7 +40,7 @@
 }
 
 .q6_text p {
-  position: absolute;
+  position: relative;
   bottom: 0;
   width: 100%;
   left: 0;
@@ -50,9 +50,6 @@
   box-sizing: border-box;
 }
 
-.q6_text p:hover {
-  transition-duration: 0.5s;
-}
 
 
 /* q6が終わったら
