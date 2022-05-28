@@ -50,8 +50,10 @@
   box-sizing: border-box;
 }
 
-.q6_img_text:hover {
+.q6_text p:hover {
   transition-duration: 0.5s;
 }
+
+
 /* q6が終わったら
 q7のcssはq7フォルダの中のcssファイルに記述してください */
