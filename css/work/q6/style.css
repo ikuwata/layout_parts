@@ -73,7 +73,8 @@
 .key_visual_text p {
   animation-duration: 10s;
   animation-iteration-count: infinite;
-	transform: translateX(0);
+  transform: translateX(100%);
+  transform: translateX(-100%);
 }
 
 .key_visual p {
