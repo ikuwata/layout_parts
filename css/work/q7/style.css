@@ -1,1 +1,26 @@
 @charset "UTF-8";
+
+.q7_balloon {
+  position: relative;
+  width: 500px;
+  margin-left: 35px;
+  padding: 20px;
+  border: 5px solid #222;
+  word-break: break-all;
+  border-radius: 30px;
+}
+
+.q7_balloon::before {
+  position: absolute;
+  bottom: 25px;
+  height: 0;
+  width: 0;
+  content: "";
+  border: 20px solid transparent;
+}
+
+.q7_balloon::after {
+  left: -38px;
+  border-right-color: #fff;
+}
+
