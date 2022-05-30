@@ -15,7 +15,6 @@
   margin-left: 50px;
   position: relative;
   cursor: pointer;
-  overflow: hidden;
 }
 
 .q6_img_large:hover {
@@ -29,8 +28,12 @@
   transition: all .5s;
 }
 
+.q6_img_text {
+  overflow: hidden;
+}
+
 .q6_text {
-  position: relative;
+  position: absolute;
   bottom: -100%;
   left: 0;
   width: 100%;
