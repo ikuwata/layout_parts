@@ -29,9 +29,10 @@
   transition: all .5s;
 }
 
-.q6_text {
-  overflow: hidden;
+.q6_img_text {
+  position: relative;
   cursor: pointer;
+  overflow: hidden;
 }
 
 .q6_text {
