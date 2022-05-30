@@ -14,7 +14,6 @@
   height: 201.8px;
   margin-left: 50px;
   position: relative;
-  cursor: pointer;
 }
 
 .q6_img_large:hover {
@@ -30,6 +29,7 @@
 
 .q6_img_text {
   overflow: hidden;
+  cursor: pointer;
 }
 
 .q6_text {
