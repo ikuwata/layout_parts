@@ -35,7 +35,7 @@
   left: 0;
   width: 100%;
   background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.8));
-  transition: all .5;
+  transition: all .5s;
   height: 100%;
 }
 
