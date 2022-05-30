@@ -29,6 +29,12 @@
   transition: all .5s;
 }
 
+.text_slideup {
+  position: relative;
+  cursor: pointer;
+  overflow: hidden;
+}
+
 .q6_text {
   position: absolute;
   bottom: -100%;
