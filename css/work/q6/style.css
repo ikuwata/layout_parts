@@ -30,9 +30,11 @@
 }
 
 .text_slide {
+  position: relative;
   cursor: pointer;
   overflow: hidden;
 }
+
 
 .q6_text {
   position: absolute;
