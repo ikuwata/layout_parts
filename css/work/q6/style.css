@@ -32,6 +32,11 @@
   transition: all .5s;
 }
 
+.q6_img_text {
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+}
 
 .q6_text {
   position: absolute;
