@@ -21,7 +21,7 @@
   position: relative;
 }
 
-.q6_img_large:hover {
+.q6_img:hover {
   transform: scale(1.5);
   transition-duration: 0.5s;
 }
