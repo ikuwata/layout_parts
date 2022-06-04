@@ -30,7 +30,6 @@
 }
 
 
-
 .q6_text {
   position: absolute;
   bottom: -100%;
@@ -39,6 +38,10 @@
   height: 100%;
   transition: all 0.5s;
   background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.8));
+}
+
+.q6_img_slide:hover {
+  transition-duration: 0.5s;
 }
 
 .q6_text p {
