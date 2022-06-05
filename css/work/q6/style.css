@@ -64,5 +64,15 @@
   box-sizing: border-box;
 }
 
+.key_visual p {
+  height: 100%;
+  font-size: 200px;
+  display: inline-block;
+}
+
+.key_visual_text p {
+  animation: loop 10s linear infinite;
+}
+
 /* q6が終わったら
 q7のcssはq7フォルダの中のcssファイルに記述してください */
