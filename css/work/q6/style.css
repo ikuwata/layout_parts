@@ -70,7 +70,7 @@
   display: inline-block;
 }
 
-.key_visual_text p {
+.key_visual_text:first-child {
   animation: loop 10s linear infinite;
 }
 
