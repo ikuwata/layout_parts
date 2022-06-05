@@ -52,7 +52,17 @@
   box-sizing: border-box;
 }
 
+.key_visual {
+  overflow: hidden;
+  position: relative;
+}
 
+.key_visual_text {
+  height: 540px;
+  font-size: 0;
+  padding: 80px 0;
+  box-sizing: border-box;
+}
 
 /* q6が終わったら
 q7のcssはq7フォルダの中のcssファイルに記述してください */
