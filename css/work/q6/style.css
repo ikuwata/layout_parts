@@ -70,9 +70,11 @@
   display: inline-block;
 }
 
-.key_visual_text:first-child {
-  animation: loop 10s linear infinite;
+.key_visual {
+  animation: 10s ease-in 1s infinite reverse both running slidein;
 }
+
+
 
 /* q6が終わったら
 q7のcssはq7フォルダの中のcssファイルに記述してください */
