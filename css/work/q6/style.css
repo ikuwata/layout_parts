@@ -71,7 +71,7 @@
 }
 
 .key_visual {
-  animation: 10s ease-in 1s infinite reverse both running slidein;
+  animation: 10s linear infinite;
 }
 
 
