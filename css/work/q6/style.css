@@ -53,11 +53,6 @@
   box-sizing: border-box;
 }
 
-.key_visual {
-  overflow: hidden;
-  position: relative;
-}
-
 .key_visual_text {
   height: 540px;
   font-size: 0;
@@ -73,6 +68,8 @@
 
 .key_visual {
   animation: loop 10s linear infinite;
+  overflow: hidden;
+  position: relative;
 }
 
 @keyframes loop{
