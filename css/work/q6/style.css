@@ -16,7 +16,6 @@
   position: relative;
   cursor: pointer;
   overflow: hidden;
-  opacity: 1;
 }
 
 .q6_img {
@@ -27,7 +26,6 @@
 
 .q6_img_large:hover {
   transform: scale(1.5);
-  transition-duration: 0.5s;
 }
 
 
@@ -41,7 +39,7 @@
   background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.8));
 }
 
-.q6_img_slide:hover {
+.q6_img_slide:hover .q6_text {
   bottom: 0;
 }
 
