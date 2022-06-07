@@ -73,8 +73,6 @@
 
 .key_visual {
   animation: loop 10s linear infinite;
-  overflow: hidden;
-  position: relative;
 }
 
 @keyframes loop{
