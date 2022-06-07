@@ -78,7 +78,14 @@
   animation: loop 10s linear infinite;
 }
 
-
+@keyframes loop{
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
 
 /* q6が終わったら
 q7のcssはq7フォルダの中のcssファイルに記述してください */
