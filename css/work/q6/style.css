@@ -53,6 +53,11 @@
   box-sizing: border-box;
 }
 
+.key_visual {
+  overflow: hidden;
+  position: relative;
+}
+
 .key_visual_text {
   height: 540px;
   font-size: 0;
