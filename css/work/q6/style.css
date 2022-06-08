@@ -53,8 +53,9 @@
   box-sizing: border-box;
 }
 
-.key_visual_text p {
+.key_visual_text {
   overflow: hidden;
+  position: relative;
 }
 
 .key_visual_text {
